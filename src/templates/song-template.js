@@ -15,10 +15,6 @@ const Template = ({ data }) => {
             Author:&nbsp;
             {post.frontmatter.author}
         </h5>
-        <h6>
-            Tags:&nbsp;
-            {post.frontmatter.tags.join(" - ")}
-        </h6>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   );

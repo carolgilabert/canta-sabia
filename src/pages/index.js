@@ -20,10 +20,7 @@ const IndexPage = ({ data }) => {
               <article key={post.id}>
                 <Link to={post.fields.slug}>
                   <p>
-                    {`
-                      ${post.frontmatter.title} - ${post.frontmatter.author}
-                      [${post.frontmatter.tags.join(" - ")}]
-                    `}
+                    {`${post.frontmatter.title} - ${post.frontmatter.author}`}
                   </p>
                 </Link>
               </article>
