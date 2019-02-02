@@ -1,6 +1,7 @@
 ---
 title: Ai ai ai, Aidê
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["corrido"]
 ---
 

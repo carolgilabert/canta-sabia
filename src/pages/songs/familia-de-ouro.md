@@ -1,6 +1,7 @@
 ---
 title: Família de Ouro
 author: Mestre Chicote
+album: Unknown
 tags: ["quadra"]
 ---
 
@@ -43,6 +44,48 @@ Mas treino pra ser um bom jogador
 **Eu tenho uma família de Ouro**  
 **A Capoeira é a minha vida**  
 **E a roda é o meu tesouro**
+
+### Translation
+
+I am Capoeira, yes sir  
+I have a golden family  
+Capoeira is my life  
+And the roda is my treasure
+
+**I am Capoeira, yes sir**  
+**I have a golden family**  
+**Capoeira is my life**  
+**And the roda is my treasure**
+
+When I hear the sound of the Berimbau  
+I get goosebumps all over my body  
+It touches the bottom of my soul  
+And finds my energy
+
+**I am Capoeira, yes sir**  
+**I have a golden family**  
+**Capoeira is my life**  
+**And the roda is my treasure**
+
+Pandeiro, reco-reco and agogô  
+Move my whole body  
+And be it in Angola or Regional  
+I become a mandingueiro
+
+**I am Capoeira, yes sir**  
+**I have a golden family**  
+**Capoeira is my life**  
+**And the roda is my treasure**
+
+Atabaque playing with a swing  
+And the strong song of a good singer  
+I do Capoeira every day  
+But train to be a good player
+
+**I am Capoeira, yes sir**  
+**I have a golden family**  
+**Capoeira is my life**  
+**And the roda is my treasure**
 
 ### Video
 

@@ -1,6 +1,7 @@
 ---
 title: O que é seu já tá guardado
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["ladainha"]
 ---
 

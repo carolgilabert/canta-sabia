@@ -1,6 +1,7 @@
 ---
 title: Ê Paraná
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["corrido"]
 ---
 

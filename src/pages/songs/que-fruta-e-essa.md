@@ -1,6 +1,7 @@
 ---
 title: Que fruta é essa
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["corrido"]
 ---
 
@@ -54,5 +55,4 @@ Que chama dandará
 ### Videos
 
 `video: https://www.youtube.com/embed/aG6fggHWQaw?start=94`
-
 `video: https://www.youtube.com/embed/EwPdsFwuO-I?start=2805`

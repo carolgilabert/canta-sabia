@@ -1,6 +1,7 @@
 ---
 title: Adeus camarada, adeus
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["quadra"]
 ---
 
@@ -72,7 +73,5 @@ Deixo um cadinho pra depois de amanhã
 ### Videos
 
 `video: https://www.youtube.com/embed/yTfi78M7nOA?start=35`
-
 `video: https://www.youtube.com/embed/9JcdZQmyZ28`
-
 `video: https://www.youtube.com/embed/EwPdsFwuO-I?start=2490`

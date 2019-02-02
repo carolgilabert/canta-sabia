@@ -1,6 +1,7 @@
 ---
 title: Ai meu joelho
 author: Contra Mestre Rafael
+album: Quando os berimbaus se encontram
 tags: ["corrido"]
 ---
 
@@ -32,5 +33,4 @@ Mãe de Deus da Conceição, dindinha
 ### Videos
 
 `video: https://www.youtube.com/embed/-x4H5rP1T2w?start=118`
-
 `video: https://www.youtube.com/embed/EwPdsFwuO-I?start=2343`
