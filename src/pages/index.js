@@ -33,7 +33,7 @@ const IndexPage = ({ data }) => {
 
 export const pageQuery = graphql`
   query BlogQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___title] }) {
+    allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___title] }) {
       edges {
         node {
           id

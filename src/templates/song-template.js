@@ -10,11 +10,8 @@ const Template = ({ data }) => {
   return (
     <Layout title={post.frontmatter.title} description={post.excerpt}>
         <Link to="/">&larr; Back</Link>
-        <h1>{post.frontmatter.title}</h1>
-        <h5>
-            Author:&nbsp;
-            {post.frontmatter.author}
-        </h5>
+        <h2>{post.frontmatter.title}</h2>
+        <h5>{post.frontmatter.author}</h5>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
   );
