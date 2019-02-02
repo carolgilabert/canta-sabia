@@ -27,6 +27,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-external-links`,
+            options: {
+              target: "_blank"
+            }
+          },
+          {
             resolve: `gatsby-remark-better-embed-video`,
             options: {
               related: false,
