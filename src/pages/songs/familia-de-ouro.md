@@ -43,3 +43,7 @@ Mas treino pra ser um bom jogador
 **Eu tenho uma família de Ouro**  
 **A Capoeira é a minha vida**  
 **E a roda é o meu tesouro**
+
+### Video
+
+`video: https://www.youtube.com/embed/EuVkgu90wHc`
