@@ -5,7 +5,7 @@ const typography = new Typography({
   baseLineHeight: 1.7,
   googleFonts: [
     {
-      name: 'Cutive',
+      name: 'IBM Plex Mono',
       styles: ['400', '400i', '700', '700i', '900']
     },
     {
@@ -13,7 +13,7 @@ const typography = new Typography({
       styles: ['400', '400i', '700']
     }
   ],
-  headerFontFamily: ['Cutive', 'regular'],
+  headerFontFamily: ['IBM Plex Mono', 'regular'],
   bodyFontFamily: ['IBM Plex Sans Condensed', 'regular'],
   headerColor: 'black',
   bodyColor: '#333',
@@ -21,17 +21,8 @@ const typography = new Typography({
   bodyWeight: 400,
   boldWeight: 700,
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
-    h1: {
-      fontSize: '4.2rem',
-      fontWeight: 900
-    },
-    h2: {
-      fontSize: '2.6rem',
-      fontWeight: 900
-    },
-    h3: {
-      fontSize: '1.6rem',
-      marginBottom: '0.74rem'
+    'h1,h2,h3,h4,h5,h6': {
+      fontStyle: 'italic'
     }
   })
 });

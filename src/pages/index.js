@@ -11,7 +11,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
       <p>This looks very basic now, but hopefully it will improve over time :)</p>
-      <h2>Songs</h2>
+      <h1>Songs</h1>
       <section>
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
