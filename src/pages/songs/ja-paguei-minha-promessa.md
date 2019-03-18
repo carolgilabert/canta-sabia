@@ -3,6 +3,7 @@ title: Já paguei minha promessa
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Já paguei minha promessa, ai meu bem  

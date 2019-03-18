@@ -3,6 +3,7 @@ title: Preto véio de Angola
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Preto véio de Angola  

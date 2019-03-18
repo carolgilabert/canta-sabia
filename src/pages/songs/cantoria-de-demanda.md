@@ -3,6 +3,7 @@ title: Cantoria de demanda
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Tu chegou, tá bem chegado  

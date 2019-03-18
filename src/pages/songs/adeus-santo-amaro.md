@@ -3,6 +3,7 @@ title: Adeus, Santo Amaro
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Adeus, Santo Amaro  

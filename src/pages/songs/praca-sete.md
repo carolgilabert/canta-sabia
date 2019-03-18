@@ -3,6 +3,7 @@ title: Foi na Praça Sete
 author: Grão Mestre Dunga
 album: A lenda viva da Capoeira
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 [bis]

@@ -3,6 +3,7 @@ title: Santa Maria mãe de Deus
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Santa Maria mãe de Deus  

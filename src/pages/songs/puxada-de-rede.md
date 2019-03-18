@@ -3,6 +3,7 @@ title: Puxada de rede do xaréu
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["puxada"]
+date: 2019-02-02
 ---
 
 Acordei de manhãzinha  

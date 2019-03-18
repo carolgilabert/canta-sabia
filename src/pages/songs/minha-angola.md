@@ -3,6 +3,7 @@ title: Minha Angola
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Aê aê, a minha Angola  

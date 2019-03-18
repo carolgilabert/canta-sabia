@@ -3,6 +3,7 @@ title: Ponha lá, vaqueiro
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Ponha lá, vaqueiro  

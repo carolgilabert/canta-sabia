@@ -3,6 +3,7 @@ title: Angola ê ê
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Angola, ê ê  

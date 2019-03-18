@@ -3,6 +3,7 @@ title: Moleque é tu
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Mas é tu que é moleque  

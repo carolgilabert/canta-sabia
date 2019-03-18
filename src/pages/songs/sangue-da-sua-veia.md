@@ -3,6 +3,7 @@ title: Sangue da sua veia
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Eu já canto há muitos anos  

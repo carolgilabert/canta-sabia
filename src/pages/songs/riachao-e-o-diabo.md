@@ -3,6 +3,7 @@ title: Riachão e o diabo
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Riachão tava cantando  

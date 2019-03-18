@@ -3,6 +3,7 @@ title: Vencedor de demanda
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["maculelê"]
+date: 2019-02-02
 ---
 
 Marabô, iê  

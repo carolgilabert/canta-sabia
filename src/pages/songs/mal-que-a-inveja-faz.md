@@ -3,6 +3,7 @@ title: O mal que a inveja faz
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Vou falar só pra vocês, ó meu bem  

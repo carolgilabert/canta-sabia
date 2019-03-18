@@ -3,6 +3,7 @@ title: Meu berimbau
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Meu berimbau  

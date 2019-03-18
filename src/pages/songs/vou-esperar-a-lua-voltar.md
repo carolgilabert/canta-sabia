@@ -3,6 +3,7 @@ title: Vou esperar a lua voltar (madeira boa)
 album: Cantigas Inéditas de Capoeira Vol. 3
 author: Mestre Charm
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Vou esperar a lua voltar  

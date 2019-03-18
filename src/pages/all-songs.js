@@ -10,8 +10,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-      <p>This looks very basic now, but hopefully it will improve over time :)</p>
-      <h1>Latest Songs</h1>
+      <h1>All Songs</h1>
       <section>
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
@@ -32,8 +31,8 @@ const IndexPage = ({ data }) => {
 };
 
 export const pageQuery = graphql`
-  query BlogQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, limit: 20) {
+  query AllSongsQuery {
+    allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___title] }) {
       edges {
         node {
           id
@@ -41,7 +40,6 @@ export const pageQuery = graphql`
             title
             author
             tags
-            date
           }
           fields {
             slug

@@ -3,6 +3,7 @@ title: Barata de idade
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Beleza não põe a mesa  
