@@ -3,6 +3,7 @@ title: Por favor não maltrate esse nego
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Por favor não maltrate esse nego  

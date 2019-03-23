@@ -3,6 +3,7 @@ title: Cascavel
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Cascavel é cobra com chocalho  

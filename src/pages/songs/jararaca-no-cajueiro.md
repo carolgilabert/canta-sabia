@@ -3,6 +3,7 @@ title: Jararaca no cajueiro
 author: Mestre Boca Rica
 album: Vencedor de Demanda
 tags: ["corrido", "ladainha"]
+date: 2019-02-02
 ---
 
 Peçonhenta mandingueira  

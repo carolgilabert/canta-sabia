@@ -3,6 +3,7 @@ title: Família de Ouro
 author: Mestre Chicote
 album: Unknown
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Eu sou Capoeira sim senhor  

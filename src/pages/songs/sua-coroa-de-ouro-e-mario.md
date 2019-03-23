@@ -3,6 +3,7 @@ title: Sua coroa de ouro é Mariô
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Sua coroa de ouro é Mariô  

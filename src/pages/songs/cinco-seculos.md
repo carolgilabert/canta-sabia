@@ -3,6 +3,7 @@ title: Cinco Séculos
 author: Mestre Eziquiel
 album: Capoeira
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Eu naveguei  

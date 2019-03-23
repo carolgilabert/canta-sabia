@@ -3,6 +3,7 @@ title: O que é seu já tá guardado
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 O que é teu já tá guardado, ai meu bem  

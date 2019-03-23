@@ -3,6 +3,7 @@ title: Quem quiser saber de mim
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Quem quiser saber de mim, ó meu bem  

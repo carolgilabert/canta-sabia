@@ -3,6 +3,7 @@ title: Que fruta é essa
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Ô mãe que fruta é essa, é dandará  

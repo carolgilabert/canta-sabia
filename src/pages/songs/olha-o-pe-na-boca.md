@@ -3,6 +3,7 @@ title: Olha o pé na boca, camará
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Olha o pé na boca  

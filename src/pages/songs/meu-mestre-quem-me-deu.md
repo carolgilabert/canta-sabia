@@ -3,6 +3,7 @@ title: Meu mestre quem me deu
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Foi meu mestre quem me deu, ó meu bem  

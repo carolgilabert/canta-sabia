@@ -3,6 +3,7 @@ title: Zumbi
 author: Mestre Boa Gente
 album: Mestre Boa Gente
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Palmares cresce sem parar  

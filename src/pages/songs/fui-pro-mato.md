@@ -3,6 +3,7 @@ title: Fui pro mato
 author: Mestre Esquilo
 album: Unknown
 tags: ["corrido"]
+date: 2019-02-02
 ---
 
 Fui pro mato  

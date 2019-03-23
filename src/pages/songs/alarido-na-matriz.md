@@ -3,6 +3,7 @@ title: Alarido na matriz
 album: Vencedor de demanda
 author: Mestre Boca Rica
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 Era domingo, esse dia de manhã  

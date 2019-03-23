@@ -3,6 +3,7 @@ title: O mundo de Deus é grande
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["ladainha"]
+date: 2019-02-02
 ---
 
 O mundo de Deus é grande, ó meu bem  

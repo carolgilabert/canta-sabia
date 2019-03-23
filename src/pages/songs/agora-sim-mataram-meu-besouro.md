@@ -3,6 +3,7 @@ title: Agora sim que mataram meu Besouro
 author: Contra Mestre Rafael
 album: Quando os berimbaus se encontram
 tags: ["quadra"]
+date: 2019-02-02
 ---
 
 Agora sim  
