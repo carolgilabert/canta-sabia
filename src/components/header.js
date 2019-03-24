@@ -41,6 +41,10 @@ const Header = ({ siteTitle }) => (
                 <Link to='/tags' style={linkStyles}>
                     Tags
                 </Link>
+                <Separator />
+                <Link to='/authors' style={linkStyles}>
+                    Authors
+                </Link>
             </div>
         </div>
     </div>

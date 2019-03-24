@@ -3,8 +3,8 @@ const path = require('path');
 const slash = require('slash');
 const _ = require('lodash');
 
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-    const { createNodeField } = boundActionCreators;
+exports.onCreateNode = ({ node, actions, getNode }) => {
+    const { createNodeField } = actions;
     if (node.internal.type === 'MarkdownRemark') {        
         const fileNode = getNode(node.parent);
         const parsedFilePath = parseFilepath(fileNode.relativePath);
@@ -14,11 +14,12 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     }
 };
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-    const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+    const { createPage } = actions;
     return new Promise((resolve, reject) => {
         const songTemplate = path.resolve('src/templates/song-template.js');
         const tagTemplate = path.resolve('src/templates/tag-template.js');
+        const authorTemplate = path.resolve('src/templates/author-template.js');
         resolve(
             graphql(
                 `
@@ -31,6 +32,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                     }
                     frontmatter {
                         tags
+                        author
                     }
                   }
                 }
@@ -55,24 +57,42 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                     });
                 });
 
-                //Creating tag pages
+                
                 let tags = [];
+                let authors = [];
                 _.each(posts,
                     edge => {
                         if (_.get(edge, "node.frontmatter.tags")) {
                             tags = tags.concat(edge.node.frontmatter.tags);
                         }
+
+                        if (_.get(edge, "node.frontmatter.author")) {
+                            authors = authors.concat(edge.node.frontmatter.author);
+                        }
                     }
                 );
 
                 tags = _.uniq(tags);
+                authors = _.uniq(authors);
 
+                //Creating tag pages
                 tags.forEach(tag => {
                     createPage({
                         path: `/tags/${_.kebabCase(tag)}`,
                         component: slash(tagTemplate),
                         context: {
                             tag
+                        }
+                    })
+                });
+
+                //Creating author pages
+                authors.forEach(author => {
+                    createPage({
+                        path: `/authors/${_.kebabCase(author)}`,
+                        component: slash(authorTemplate),
+                        context: {
+                            author
                         }
                     })
                 });

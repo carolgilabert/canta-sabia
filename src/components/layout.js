@@ -17,12 +17,14 @@ const Layout = ({ children }) => (
             }
         `}
         render={data => (
-            <div style={{
-                minHeight: '100vh',
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'space-between'
-            }}>
+            <div
+                style={{
+                    minHeight: '100vh',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    justifyContent: 'space-between'
+                }}
+            >
                 <Header siteTitle={data.site.siteMetadata.title} />
                 <div
                     style={{
