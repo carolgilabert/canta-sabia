@@ -32,7 +32,9 @@ exports.createPages = ({ graphql, actions }) => {
                     }
                     frontmatter {
                         tags
-                        author
+                        author {
+                            name
+                        }
                     }
                   }
                 }
@@ -66,8 +68,8 @@ exports.createPages = ({ graphql, actions }) => {
                             tags = tags.concat(edge.node.frontmatter.tags);
                         }
 
-                        if (_.get(edge, "node.frontmatter.author")) {
-                            authors = authors.concat(edge.node.frontmatter.author);
+                        if (_.get(edge, "node.frontmatter.author.name")) {
+                            authors = authors.concat(edge.node.frontmatter.author.name);
                         }
                     }
                 );

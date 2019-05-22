@@ -4,6 +4,9 @@ module.exports = {
     description: `Website for Capoeira song lyrics.`,
     author: `Carolina Gilabert`,
   },
+  mapping: {
+    'MarkdownRemark.frontmatter.author': 'AuthorsJson.name'
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -12,6 +15,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -24,6 +28,13 @@ module.exports = {
       options: {
         name: `pages`,
         path: `${__dirname}/src/pages/`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`
       }
     },
     `gatsby-transformer-sharp`,

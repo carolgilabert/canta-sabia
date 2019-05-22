@@ -24,7 +24,7 @@ const IndexPage = ({ data }) => {
                                 <Link to={post.fields.slug}>
                                     <p>
                                         {`${post.frontmatter.title} - ${
-                                            post.frontmatter.author
+                                            post.frontmatter.author.name
                                         }`}
                                     </p>
                                 </Link>
@@ -47,7 +47,9 @@ export const pageQuery = graphql`
                     id
                     frontmatter {
                         title
-                        author
+                        author {
+                            name
+                        }
                         tags
                         date
                     }
