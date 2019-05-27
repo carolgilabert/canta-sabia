@@ -10,8 +10,8 @@ const Template = ({ data }) => {
         <Layout title={post.frontmatter.title} description={post.excerpt}>
             <h1>{post.frontmatter.title}</h1>
             <h2>
-                <Link to={`/authors/${_.kebabCase(post.frontmatter.author.name)}`}>
-                    {post.frontmatter.author.name}
+                <Link to={`/authors/${_.kebabCase(post.frontmatter.author)}`}>
+                    {post.frontmatter.author}
                 </Link>
             </h2>
             <div dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -26,9 +26,7 @@ export const pageQuery = graphql`
             excerpt(pruneLength: 250)
             frontmatter {
                 title
-                author {
-                    name
-                }
+                author
                 tags
             }
         }

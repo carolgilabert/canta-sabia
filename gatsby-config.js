@@ -4,9 +4,6 @@ module.exports = {
     description: `Website for Capoeira song lyrics.`,
     author: `Carolina Gilabert`,
   },
-  mapping: {
-    'MarkdownRemark.frontmatter.author': 'AuthorsJson.name'
-  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {

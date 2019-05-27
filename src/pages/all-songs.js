@@ -20,7 +20,7 @@ const IndexPage = ({ data }) => {
                                 <Link to={post.fields.slug}>
                                     <p>
                                         {`${post.frontmatter.title} - ${
-                                            post.frontmatter.author.name
+                                            post.frontmatter.author
                                         }`}
                                     </p>
                                 </Link>
@@ -40,9 +40,7 @@ export const pageQuery = graphql`
                     id
                     frontmatter {
                         title
-                        author {
-                            name
-                        }
+                        author
                         tags
                     }
                     fields {

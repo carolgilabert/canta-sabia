@@ -42,7 +42,7 @@ Authors.propTypes = {
                     node: PropTypes.shape({
                         frontmatter: PropTypes.shape({
                             title: PropTypes.string.isRequired,
-                            author: PropTypes.any
+                            author: PropTypes.string.isRequired
                         }),
                         fields: PropTypes.shape({
                             slug: PropTypes.string.isRequired
@@ -71,11 +71,7 @@ export const pageQuery = graphql`
                         slug
                     }
                     frontmatter {
-                        author {
-                            name
-                            bio
-                            image
-                        }
+                        author
                         title
                     }
                 }
