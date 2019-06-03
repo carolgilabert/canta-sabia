@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Contra Mestre Rafael",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/cm-rafael.jpg"
+    },
+    {
+        "name": "Grão Mestre Dunga",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/gm-dunga.jpg"
+    },
+    {
+        "name": "Mestre Boa Gente",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-boa-gente.jpg"
+    },
+    {
+        "name": "Mestre Boca Rica",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-boca-rica.jpg"
+    },
+    {
+        "name": "Mestre Charm",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-charm.jpg"
+    },
+    {
+        "name": "Mestre Chicote",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-chicote.jpg"
+    },
+    {
+        "name": "Mestre Esquilo",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-esquilo.jpg"
+    },
+    {
+        "name": "Mestre Eziquiel",
+        "bio": "Placeholder bio.",
+        "image": "/images/authors/m-eziquiel.jpg"
+    }
+]
