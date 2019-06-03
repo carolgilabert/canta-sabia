@@ -15,6 +15,7 @@
     "gatsby-remark-better-embed-video": "^2.4.0",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-source-filesystem": "^2.0.8",
+    "gatsby-transformer-json": "^2.1.11",
     "gatsby-transformer-remark": "^2.2.0",
     "gatsby-transformer-sharp": "^2.1.8",
     "prop-types": "^15.6.2",
@@ -34,9 +35,12 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "jest"
   },
   "devDependencies": {
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.12.1",
+    "jest": "^24.7.1",
     "prettier": "^1.15.2"
   }
 }
