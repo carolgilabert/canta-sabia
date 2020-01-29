@@ -74,10 +74,9 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-fathom',
             options: {
-              siteId: 'AWGTJUUV',
-              whitelistHostnames: [
-                'cantasabia.co.uk'
-              ]
+                siteId: 'AWGTJUUV',
+                whitelistHostnames: ['cantasabia.co.uk']
             }
+        }
     ]
 };
